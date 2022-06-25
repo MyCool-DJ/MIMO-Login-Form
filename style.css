@@ -1,0 +1,17 @@
+@import
+	url('https://fonts.googleapis.com/css2?fmaily=Merriweather+Sans:wght@700&fmaily=Quicksand:wght@300&display=swap');
+
+body{
+	background-color: azure;
+	text-align: center;
+	font-fmaily: 'Merriweather Sans', sans-serif;
+}
+
+h2{background-color: gold;
+	 padding:10px
+	}
+
+input{
+	padding: 10px;
+	font-family: Quicksand;
+}
